@@ -1,0 +1,23 @@
+body{
+    align-content: center;
+    margin: 50px;
+    background-color: indigo;
+
+
+
+}
+
+h1{
+    align-content: center;
+
+}
+
+section{
+    -ms-flex-align: stretch;
+
+}
+
+.form{
+    align-content: stretch;
+
+}
